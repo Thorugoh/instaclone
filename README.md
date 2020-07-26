@@ -7,6 +7,9 @@ Instagram clone made with React Native
 * Preload blurred images
 
 # TODO 
-[ ] Carousel Posts
-[ ] Stories View
-[ ] Bottom Menu
+- [ ] Carousel Posts
+- [ ] Stories View
+- [ ] Bottom Menu
+
+# Preview 
+![](https://raw.githubusercontent.com/Thorugoh/instaclone/master/instaclone.gif)
